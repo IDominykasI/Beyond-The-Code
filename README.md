@@ -1,4 +1,4 @@
-# Beyond The Code – Prototipas v1.0
+# Codex Arcanum – Prototipas v1.0
 
 Tai pirmoji prototipo versija, sukurta Unity aplinkoje.
 
